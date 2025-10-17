@@ -64,7 +64,7 @@ The website uses Bootstrap 5 classes. You can:
 5. Choose "main" branch and "/ (root)" folder
 6. Click Save
 
-Your website will be available at: `https://yourusername.github.io/repository-name`
+Your website will be available at: `https://wz0917-hkust.github.io/Personal-Website/`
 
 ### Local Development
 1. Clone the repository
